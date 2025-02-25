@@ -1,3 +1,4 @@
+LINK Recording : https://drive.google.com/file/d/1O5tmHi3oSZj4amcLQTcVTjpkSH1wzzSM/view?usp=sharing
 selenium menggunakan POM
 1. buat file loginTest.js yang berisi tasecase login, inventoryTest.js yang berisi tasecase add to cart sampai berhasil checkout
 2. buat folder pages yang berisi class - class loginPage.js, inventoryPage.js dan checkoutPage.js
